@@ -2,7 +2,7 @@
 Assessment for Aspen Data engineer position
 
 ## Instructions
-Need python3 as base interpereter atleast
+Need python3 as base interpreter atleast
 and virtualenv is setup in base interpreter.
 
 ```
@@ -12,4 +12,4 @@ python src/entrypoint.py
 ```
 
 ###Unittests
-Unitests are maintained in `tests` directory and can be run individually once the above instructions are followed to setup the virtualenv.
+Unit tests are maintained in `tests` directory and can be run individually once the above instructions are followed to setup the virtualenv.
